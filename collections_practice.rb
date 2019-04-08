@@ -50,6 +50,6 @@ end
 
 def add_s(array)
   array.each_with_index.collect do |a, index| 
-  if 
+  if a = a
  end
 end
