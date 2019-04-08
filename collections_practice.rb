@@ -53,7 +53,7 @@ def add_s(array)
   if index == 1 
     return a
   else
-    "#{a}s
+    "#{a}s"
   end
  end
 end
