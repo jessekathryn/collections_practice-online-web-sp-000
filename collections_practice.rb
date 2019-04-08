@@ -50,6 +50,7 @@ end
 
 def add_s(array)
   array.collect do |a| 
-  a << "s"
+  if array == array[1] 
+    array << "s"
  end
 end
